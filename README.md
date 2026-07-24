@@ -72,8 +72,10 @@ python main.py
 
 ## 📸 Screenshots
 
+🏠 Main Menu
 ![Main Menu](src/menu.png)
 
+🎲 Gameplay
 ![Gameplay](src/gameplay.png)
 
 ---
